@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yu Zhu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "He/his"  
+  bio              : "I am a PostDoc working at Purdue University, in the pharmacy department. My research focuses on developing mapping and backmapping tools for understanding biomolecules, including proteins, lipid membranes."
   location         : "Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
