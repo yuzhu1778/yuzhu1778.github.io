@@ -8,4 +8,3 @@ date: 2023-01-17
 location: “Aspen Center of Physics, Aspen, CO, US"
 ---
 
-#This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
