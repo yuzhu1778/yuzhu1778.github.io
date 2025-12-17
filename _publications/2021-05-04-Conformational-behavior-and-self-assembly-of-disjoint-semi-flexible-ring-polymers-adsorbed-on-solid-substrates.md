@@ -3,7 +3,7 @@ title: "Conformational behavior and self-assembly of disjoint semi-flexible ring
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-Conformational-behavior-and-self-assembly-of-disjoint-semi-flexible-ring-polymers-adsorbed-on-solid-substrates
-excerpt: 'This paper is about self-assembly process of ring polymers on solid substrates.'
+excerpt: 'The conformational behavior and spatial organization of self-avoiding semi-flexible ring polymers, that are fully adsorbed on solid substrates, are investigated via systematic coarse-grained molecular dynamics simulations.'
 date: 2021-05-04
 venue: 'Soft Matter'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00500f'

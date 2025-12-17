@@ -2,7 +2,7 @@
 title: "Modes of adhesion of spherocylindrical nanoparticles to tensionless lipid bilayers"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-6-15-Modes-of-adhesion-of-spherocylindrical-nanoparticles to-tensionless-lipid-bilayers
+permalink: /publication/2022-06-15-Modes-of-adhesion-of-spherocylindrical-nanoparticles to-tensionless-lipid-bilayers
 excerpt: 'The adhesion modes and endocytosis pathway of spherocylindrical nanoparticles (NPs) are investigated numerically using molecular dynamics simulations of a coarse-grained implicit-solvent model.'
 date: 2022-06-15
 venue: 'The Jornal of Chemical Physics'
