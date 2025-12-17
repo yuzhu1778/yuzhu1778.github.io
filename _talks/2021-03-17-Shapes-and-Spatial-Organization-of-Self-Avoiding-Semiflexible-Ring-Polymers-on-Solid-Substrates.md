@@ -1,10 +1,10 @@
 ---
-title: "apes and Spatial Organization of Self-Avoiding Semiflexible Ring Polymers on Solid Substrates"
+title: "Shapes and Spatial Organization of Self-Avoiding Semiflexible Ring Polymers on Solid Substrates"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2021-03-17-Shapes-and-Spatial-Organization-of-Self-Avoiding-Semiflexible-Ring-Polymers-on-Solid-Substrates
 venue: "APS march meeting"
-date: 2021-03
+date: 2021-03-17
 location: “online"
 ---
 
