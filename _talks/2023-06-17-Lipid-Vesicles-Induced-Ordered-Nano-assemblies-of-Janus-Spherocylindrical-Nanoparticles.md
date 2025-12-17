@@ -8,4 +8,3 @@ date: 2023-06-17
 location: “Raleigh, NC, US"
 ---
 
-#This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
