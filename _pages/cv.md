@@ -19,18 +19,12 @@ Education
 
 Work experience
 ======
-
-
-### Postdoctoral Associate  
-**Eli Lilly & Purdue University**  *Aug 2023 – Present*  
-**Project:** Multi-scale modeling of lipid nanoparticles and proteins
-
-- Developed a progressive coarse-graining framework for mapping all-atom protein models to highly coarse-grained representations using essential dynamics and fixed-length methods.
-- Designed a neural-network-based backmapping method to recover all-atom protein structures from coarse-grained models.
-- Developed tools to construct and parameterize lipid nanoparticles based on all-atom simulations.
-
-
-* **August 2019-July 2024: Position: Research Assistant**
+* **Position: Postdoctoral Associate  at Purude University, August 2023-present**
+  * **Project:** Multi-scale modeling of lipid nanoparticles and proteins
+    * Developed a progressive coarse-graining framework for mapping all-atom protein models to highly coarse-grained representations using essential dynamics and fixed-length methods.
+    * Designed a neural-network-based backmapping method to recover all-atom protein structures from coarse-grained models.
+    * Developed tools to construct and parameterize lipid nanoparticles based on all-atom simulations.
+* **Position: Research Assistant at University of Memphis, August 2019-July 2023**
   * **Project:** Self-assembly of janus nanoparticles on lipids membranes 
     * Developed a C++ template to create a model of soft controllable tessellated spherical nanoparticle whcih was integrated with our coarse grained lipid membrane system. Wrote a large number of analysing scripts, using C++, python, and bash, including the Voronoi diagram both in two and three dimensions, radial distribution function, various types of order parameters, Lindemann measure auto-correlation functions, diffusion, free energies, etc.
     * Performed a comprehensive study of the spatial arrangement of two Janus nanoparticles on the outer or inner side  of lipid vesicles by using molecular dynamics method, in conjunction with the calculation of free energy by using weighted histogram analysis method.
@@ -44,7 +38,6 @@ Work experience
 
 Skills
 ======
-* Skill 1
 * **Languages and Tools:**
   * C/C++, Python, bash script, SQL, GROMACS, Amber, PyMOL, MDAnalysis, TensorFlow, PyTorch, Git, Vim, slurm, VMD, xmgrace, Latex
 * **Related Courses:**
