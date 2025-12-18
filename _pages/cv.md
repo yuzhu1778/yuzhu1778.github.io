@@ -19,11 +19,8 @@ Education
 Work experience
 ======
 * ==August 2019-July 2024: Position: Research Assistant==
-  *   Self-assembly of janus nanoparticles on lipids membranes 
-    Developed a C++ template to create a model of soft, controllable tessellated spherical nanoparticle, whcih was
-integrated with our coarse grained lipid membrane system. Wrote a large number of analysing scripts, using C++,
-python, and bash, including the Voronoi diagram both in two and three dimensions, radial distribution function,
-various types of order parameters, Lindemann measure, auto-correlation functions, diffusion, free energies, etc.
+  * Self-assembly of janus nanoparticles on lipids membranes 
+    * Developed a C++ template to create a model of soft controllable tessellated spherical nanoparticle whcih was integrated with our coarse grained lipid membrane system. Wrote a large number of analysing scripts, using C++, python, and bash, including the Voronoi diagram both in two and three dimensions, radial distribution function, various types of order parameters, Lindemann measure auto-correlation functions, diffusion, free energies, etc.
 
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
