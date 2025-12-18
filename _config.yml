@@ -23,7 +23,7 @@ repository               : "yuzhu1778/yuzhu1778.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pro.jpg"
   name             : "Yu Zhu"
   pronouns         : # example: "He/his"  
   bio              : "Ph.D in physics, interested in using physics and machine learning methods to solve real world problems."
