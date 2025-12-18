@@ -19,6 +19,19 @@ Education
 
 Work experience
 ======
+
+
+### Postdoctoral Associate  
+**Eli Lilly & Purdue University**  
+*Aug 2023 – Present*  
+
+**Project:** Multi-scale modeling of lipid nanoparticles and proteins
+
+- Developed a progressive coarse-graining framework for mapping all-atom protein models to highly coarse-grained representations using essential dynamics and fixed-length methods.
+- Designed a neural-network-based backmapping method to recover all-atom protein structures from coarse-grained models.
+- Developed tools to construct and parameterize lipid nanoparticles based on all-atom simulations.
+
+
 * ==August 2019-July 2024: Position: Research Assistant==
   * Self-assembly of janus nanoparticles on lipids membranes 
     * Developed a C++ template to create a model of soft controllable tessellated spherical nanoparticle whcih was integrated with our coarse grained lipid membrane system. Wrote a large number of analysing scripts, using C++, python, and bash, including the Voronoi diagram both in two and three dimensions, radial distribution function, various types of order parameters, Lindemann measure auto-correlation functions, diffusion, free energies, etc.
@@ -27,6 +40,7 @@ Work experience
     * Performed large scale simulations of Janus nanoparticles adhere to the periodic planar lipid membranes to show  that the nanoparticles self assembly into hexagonal lattice with quasi-long-range order and a hexatic phase at  intermediate densities. I also showed that the melting of nanoparticles from crystal phase to liquid phase agree with KTHNY theory by characterizing Lindemann parameter, bond-order correlation parameter.
     * Performed molecular dynamics simulation of Janus nanoparticles on tubular membranes and showed that the nanoparticles can self-assemble into helical nanoassemblies with variable pitch.
     * Closely collaborated with other students to explore the modes of adhesion of spherocylindrical nanoparticles to tensionless lipid membranes, membrane-mediated dimerization of spherocylindrical  nanoparticles, and the  self-assembly of Janus spherocylindrical nanoparticles on lipid vesicles.
+
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
