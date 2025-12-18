@@ -23,6 +23,7 @@ Education
 Work experience
 ======
 * **Position: Postdoctoral Associate  at Purude University, August 2023-present**
+* **Affiliated with the Eli Lilly and Company and Purdue University Research Alliance Center (LPRC), “August 2023-present”**
   * **Project:** Multi-scale modeling of lipid nanoparticles and proteins
     * Developed a progressive coarse-graining framework for mapping all-atom protein models to highly coarse-grained representations using essential dynamics and fixed-length methods.
     * Designed a neural-network-based backmapping method to recover all-atom protein structures from coarse-grained models.
