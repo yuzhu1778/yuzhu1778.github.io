@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://yuzhu1778.github.io/files/Zhu_Yu.pdf)
+
+
 Education
 ======
 * M.S. in computer science, Georgia Institute of Technology, 2025
