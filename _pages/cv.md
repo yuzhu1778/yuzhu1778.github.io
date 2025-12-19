@@ -11,6 +11,42 @@ redirect_from:
 
 [Download CV here](http://yuzhu1778.github.io/files/Zhu_Yu.pdf)
 
+<style>
+body {
+    font-family: "Times New Roman", serif;   
+    font-size: 16px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+h1 {
+    font-size: 24px;
+    color: #2C3E50;
+}
+
+h2 {
+    font-size: 20px;
+    color: #16A085;
+}
+
+h3 {
+    font-size: 18px;
+    color: #F39C12;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;  /* remove underline */
+    color: #3498DB;         /* link color */
+}
+
+a:hover {
+    color: #E74C3C;         /* when mouse on */
+}
+</style>
 
 Education
 ======
