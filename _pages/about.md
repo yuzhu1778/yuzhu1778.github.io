@@ -1,11 +1,48 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<style>
+body {
+    font-family: "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2C3E50;
+}
+
+h1 {
+    font-size: 24px;
+    color: #2C3E50;
+}
+
+h2 {
+    font-size: 20px;
+    color: #16A085;
+}
+
+h3 {
+    font-size: 18px;
+    color: #F39C12;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;  /* remove underline */
+    color: #3498DB;         /* link color */
+}
+
+a:hover {
+    color: #E74C3C;         /* when mouse on */
+}
+</style>
 
 I am a postdoctoral researcher at Purdue University in the Borch Department of Medicinal Chemistry and Molecular Pharmacology. I am also affiliated with the Eli Lilly and Company–Purdue University Research Alliance Center as a member of the Nanomedicine Engineering Group, where my work focuses on studying structure–activity relationships.
 
